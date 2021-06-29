@@ -1,4 +1,4 @@
-![tenor](https://user-images.githubusercontent.com/77527524/119225615-525c6080-bb22-11eb-9b3f-8b498adf8481.gif)
+ <!---![tenor](https://user-images.githubusercontent.com/77527524/119225615-525c6080-bb22-11eb-9b3f-8b498adf8481.gif) --->
 - 👋 Hi, I’m @harsha-deep
 
 
