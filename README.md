@@ -6,7 +6,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-deep&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-- 👋 Hi, I’m @harsha-deep
+<!-- - 👋 Hi, I’m @harsha-deep -->
 
 <!---
 harsha-deep/harsha-deep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
